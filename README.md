@@ -1,2 +1,2 @@
-# ExperienceA.I.-
+# A.I. Global Experience-
 Multilingual, multimodal AI assistant, with memory, persona design, voice support and more...
